@@ -31,3 +31,5 @@ TODO: Where can people find the service and the different environments?
 ## Source
 
 This repository was bootstrapped from [dxw's `rails-template`](https://github.com/dxw/rails-template).
+
+.
